@@ -62,3 +62,10 @@ table {
 a:-webkit-any-link {
 	text-decoration: none;
 }
+
+body.cke_editable h2, article div#content h2, form#diff_dialog div.body div.wrapper h2, body.cke_editable h3, article div#content h3, form#diff_dialog div.body div.wrapper h3, body.cke_editable h4, article div#content h4, form#diff_dialog div.body div.wrapper h4, body.cke_editable h5, article div#content h5, form#diff_dialog div.body div.wrapper h5, body.cke_editable h6, article div#content h6, form#diff_dialog div.body div.wrapper h6 {
+    margin: 1em 0 .5em 0;
+}
+body.cke_editable p, article div#content p, form#diff_dialog div.body div.wrapper p {
+    margin: 1em 0;
+}

@@ -1,0 +1,62 @@
+body {
+    font-family: NanumGothic,sans-serif;
+    font-size: .75em;
+    color: #666;
+}
+#whole_wrapper div#body #breadcrumb {
+    background-color: #eee;
+    border-bottom: 1px solid #ddd;
+}
+#whole_wrapper div#body #breadcrumb .wrapper {
+    width: 980px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    position: relative;
+    vertical-align: middle;
+}
+#whole_wrapper div#body #breadcrumb .wrapper #breadcrumb_line {
+    padding-left: 15px;
+    color: #999;
+}
+#whole_wrapper div#body div#cols>div.wrapper {
+    width: 980px;
+    margin: 0 auto;
+    position: relative;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+#whole_wrapper div#body div#cols div.entry-area {
+    width: 730px;
+    float: left;
+}
+body.no_sidebar div#body div#cols .wrapper div.entry-area {
+    width: auto !important;
+    float: none !important;
+    margin: 0 auto;
+}
+#whole_wrapper div#body div#cols div.entry-area article {
+    min-height: 400px;
+    padding: 40px 35px;
+}
+body.no_sidebar div#body div#cols .wrapper div.entry-area article {
+    width: 770px;
+    margin: 0 auto;
+}
+
+#whole_wrapper div#body div#cols div.entry-area article hgroup {
+    padding-bottom: 1em;
+    margin-bottom: 2em;
+    position: relative;
+    border-bottom: 1px solid #333;
+    text-align: center;
+    line-height: 1.8;
+}
+body.root div#body hgroup {
+    display: none;
+}
+#whole_wrapper div#body div#cols div.entry-area article hgroup h1 {
+    color: #333;
+    font-size: 2.1em;
+    font-weight: normal;
+}
