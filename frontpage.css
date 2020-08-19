@@ -4,10 +4,17 @@
 #whole_wrapper div#bcbody #breadcrumb .wrapper #breadcrumb_line {padding-left: 15px;color: #999;}
 
 #whole_wrapper div#body div#cols>div.wrapper {width: 980px;margin: 0 auto;position: relative;border-left: 1px solid #ddd;border-right: 1px solid #ddd;}
-#whole_wrapper div#body div#cols div.entry-area {width: 730px;float: left;}
 body.no_sidebar div#body div#cols .wrapper div.entry-area {width: auto !important;float: none !important;margin: 0 auto;}
-#whole_wrapper div#body div#cols div.entry-area article {min-height: 400px;padding: 40px 35px;}
 body.no_sidebar div#body div#cols .wrapper div.entry-area article {width: 770px;margin: 0 auto;}
+#whole_wrapper div#body div#cols div.entry-area article {min-height: 400px;padding: 40px 35px;}
+#whole_wrapper div#body div#cols div.entry-area {width: 730px;float: left;}
 #whole_wrapper div#body div#cols div.entry-area article hgroup {padding-bottom: 1em;margin-bottom: 2em;position: relative;border-bottom: 1px solid #333;text-align: center;line-height: 1.8;}
-body.root div#body hgroup {display: none;}
 #whole_wrapper div#body div#cols div.entry-area article hgroup h1 {color: #333;font-size: 2.1em;font-weight: normal;}
+
+body.root div#body hgroup {display: none;}
+
+body.cke_editable, article div#content, form#diff_dialog div.body div.wrapper {font-family: NanumGothic,sans-serif;line-height: 1.8;font-size: 1.1em;padding: 10px;color: #666;}
+body.cke_editable p, article div#content p, form#diff_dialog div.body div.wrapper p {margin: 1em 0;}
+body.cke_editable img, article div#content img, form#diff_dialog div.body div.wrapper img { background-color: #fff;}
+body.cke_editable h2, article div#content h2, form#diff_dialog div.body div.wrapper h2 {border-bottom: 1px dotted #858585;font-size: 1.6em;font-weight: bold;color: #333;padding-bottom: .2em;}
+body.cke_editable h2, article div#content h2, form#diff_dialog div.body div.wrapper h2, body.cke_editable h3, article div#content h3, form#diff_dialog div.body div.wrapper h3, body.cke_editable h4, article div#content h4, form#diff_dialog div.body div.wrapper h4, body.cke_editable h5, article div#content h5, form#diff_dialog div.body div.wrapper h5, body.cke_editable h6, article div#content h6, form#diff_dialog div.body div.wrapper h6 {margin: 1em 0 .5em 0;}
