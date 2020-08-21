@@ -1,0 +1,12 @@
+#whole_wrapper div.body div#cols aside{width:250px;float:left}
+#whole_wrapper div.body div#cols aside div.index{padding:0 1px 0 0}
+#whole_wrapper div.body div#cols aside div.index#topic_list_index{position:relative;padding-bottom:2em}
+#whole_wrapper div.body div#cols aside div.index nav{font-size:1em}
+#whole_wrapper div.body div#cols aside div.index nav ol#topic_list_tree.no_draggable li div,
+#whole_wrapper div.body div#cols aside div.index nav ol#category_list_tree.no_draggable li div{background-image:url("../../img/desktop/list_dash_01.png");background-repeat:no-repeat;background-position:5px center}
+#whole_wrapper div.body div#cols aside div.index nav ol#topic_list_tree.no_draggable>li>div,
+#whole_wrapper div.body div#cols aside div.index nav ol#category_list_tree.no_draggable>li>div{background-image:none}
+#whole_wrapper div.body div#cols aside div.index nav ol#topic_list_tree.no_draggable li div a,
+#whole_wrapper div.body div#cols aside div.index nav ol#category_list_tree.no_draggable li div a{padding:8px 15px;line-height:14px;color:#999;display:block}
+
+#whole_wrapper div.body div#cols aside div.index h2{color:#000;font-size:1.2em;font-weight:bold;padding:20px 14px 10px 14px}
