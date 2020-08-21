@@ -1,9 +1,11 @@
 #whole_wrapper{position:relative}
+
 #whole_wrapper>.head{background-color:#7550BF}
 #whole_wrapper>.head header{position:relative;text-align:center;z-index:14}
 #whole_wrapper>.head header hgroup{padding-top:35px}
-#whole_wrapper>.head header hgroup p.title a{font-size:2.0em;color:#fff}
-#whole_wrapper>.head header hgroup p.subtitle{color:#EFBCF9;font-size:1.0em;padding:10px 10px 5px 10px}
+#whole_wrapper>.head header hgroup p.title a{font-family:'cursive'; font-style: italic;font-size:2.0em;color:#fff}
+#whole_wrapper>.head header hgroup p.subtitle{font-family:'Malgun Gothic'; color:#EFBCF9;font-size:1.0em;padding:10px 10px 5px 10px}
+
 #whole_wrapper>.head nav#main_menu{z-index:11}
 #whole_wrapper>.head nav#main_menu>div.wrapper>ul{padding:0.6em 1.0em;text-align:center}
 #whole_wrapper>.head nav#main_menu>div.wrapper>ul>li{display:inline-block;padding:10px 0;z-index:12;position:relative}
