@@ -7,6 +7,6 @@
 #whole_wrapper div.body div#cols aside div.index nav ol#topic_list_tree.no_draggable>li>div,
 #whole_wrapper div.body div#cols aside div.index nav ol#category_list_tree.no_draggable>li>div{background-image:none}
 #whole_wrapper div.body div#cols aside div.index nav ol#topic_list_tree.no_draggable li div a,
-#whole_wrapper div.body div#cols aside div.index nav ol#category_list_tree.no_draggable li div a{padding:8px 15px;line-height:14px;color:#999;display:block}
+#whole_wrapper div.body div#cols aside div.index nav ol#category_list_tree.no_draggable li div a{padding:13px 15px;line-height:14px;color:#999;display:block}
 
-#whole_wrapper div.body div#cols aside div.index h2{color:#000;font-size:1.2em;font-weight:bold;padding:20px 14px 10px 14px}
+#whole_wrapper div.body div#cols aside div.index h2{color:#000;font-size:1.4em;font-weight:bold;padding:20px 14px 10px 14px}

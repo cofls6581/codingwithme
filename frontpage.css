@@ -12,7 +12,7 @@ body.no_side #whole_wrapper div.body div#cols .wrapper div.entry-area {width: au
 
 #whole_wrapper div.body  hgroup {display: none;}
 
-#whole_wrapper article div#content, form#diff_dialog div.body div.wrapper {font-family:Georgia,'dotum',sans-serif;line-height: 1.8;font-size: 1.1em;padding: 10px;color: #666;}
+#whole_wrapper article div#content, form#diff_dialog div.body div.wrapper {font-family:Georgia,sans-serif;line-height: 1.8;font-size: 1.1em;padding: 10px;color: #666;}
 #whole_wrapper article div#content p, form#diff_dialog div.body div.wrapper p {margin: 1em 0;}
 #whole_wrapper article div#content img, form#diff_dialog div.body div.wrapper img { background-color: #fff;}
 #whole_wrapper article div#content h2, form#diff_dialog div.body div.wrapper h2 {border-bottom: 1px dotted #858585;font-size: 1.6em;font-weight: bold;color: #333;padding-bottom: .2em;}
